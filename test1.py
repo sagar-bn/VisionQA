@@ -47,7 +47,7 @@ def start_collection():
     find_click("images/run_collection.png")
 
 
-def capture_each_request():
+def capture_each_request(): 
 
     count = 1
 
